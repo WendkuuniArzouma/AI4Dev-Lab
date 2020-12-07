@@ -25,7 +25,7 @@ align_data represents the data alignment model generated with fast_align used du
 
 # Tools used
 
-OpenNMT-py the framework for training and testing https://opennmt.net/
+OpenNMT-py the framework for training and testing https://github.com/OpenNMT/OpenNMT-py
 
 subword-nmt for the BPE https://github.com/rsennrich/subword-nmt
 
