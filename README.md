@@ -1,15 +1,15 @@
 # AI4Dev-Lab
-################################################################################################################
-#Data and code release for Zakaria Sawadogo, Wendkuuni A. M. Christian Ouedraogo, Aminata Sabané,			         #
-#Idriss T. Tinto and Tegawendé F. Bissyandé, "An explorative Investigation into Neural Machine Translation:    #
-#the Case of Low-Resource Language Pairs in Burkina Faso"													                             #
-################################################################################################################
 
-####Dataset
+Data and code release for Zakaria Sawadogo, Wendkuuni A. M. Christian Ouedraogo, Aminata Sabané,			         
+Idriss T. Tinto and Tegawendé F. Bissyandé, "An explorative Investigation into Neural Machine Translation:    
+the Case of Low-Resource Language Pairs in Burkina Faso"													                             
+
+
+# Dataset
 The French-Moorée Bible
 
 
-####The dataset presentation 
+# he dataset presentation 
 
 train_data represents the training data pre-processed (27,909 lines)
 
@@ -23,7 +23,7 @@ align_data represents the data alignment model generated with fast_align used du
 
 
 
-####Tools used
+# Tools used
 
 OpenNMT-py the framework for training and testing https://opennmt.net/
 
