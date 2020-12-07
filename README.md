@@ -9,7 +9,7 @@ the Case of Low-Resource Language Pairs in Burkina Faso"
 The French-Moorée Bible
 
 
-# he dataset presentation 
+# The dataset presentation 
 
 train_data represents the training data pre-processed (27,909 lines)
 
