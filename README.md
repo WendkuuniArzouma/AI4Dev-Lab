@@ -13,9 +13,9 @@ The French-Moorée Bible
 
 train_data represents the training data pre-processed (27,909 lines)
 
-valid_data represents the validation data pre-processed (597 lines)
+valid_data represents the validation data pre-processed (3 000 lines)
 
-test_data represents the pre-processed test data
+test_data represents the pre-processed test data (597 lines)
 
 bpe_data represents the vocabulary generated with the BPE used during the training phase with OpenNMT-py
 
